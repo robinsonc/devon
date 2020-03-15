@@ -20,7 +20,9 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 - Generate application key [php artisan key:generate]
 - Run the migrations [php artisan migrate]
 - Set up Passport [php artisan passport:install]
-- Run php artisan serve to start the project
+- Run seeders for creating an Admin user and a Normal user [php artisan db:seed]
+- Run [php artisan serve] to start the project
+- API Docs can be found at [Postman Docs](https://documenter.getpostman.com/view/5164966/SzS2xo8V).
 
 
 ## License
